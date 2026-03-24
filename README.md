@@ -38,7 +38,7 @@ praticar mapeamento JPA básico e operações CRUD.
 | `descricao` | String | Descrição da Categoria                                     
 
 ### <a name="requisitos"></a> ✅ Requisitos
-- Crie uma entidade JPA chamada Produto com os atributos especificados
+- Crie uma entidade JPA chamada Categoria com os atributos especificados
 - Configure o nome da entidade JPA como Categoria
 - Configure o nome da tabela no banco como tb_categoria
 - Pelo menos dois atributos devem ter o nome do campo diferente do nome da
